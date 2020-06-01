@@ -17,12 +17,13 @@
   * [03](2020/03)
   * [04](2020/04)
   * [05](2020/05)
+  * [06](2020/06)
 
 
 
 [build-image]: https://img.shields.io/badge/build-passing-brightgreen   "build"
 [build-url]: https://github.com/kuriv/health    "build"
-[days-image]: https://img.shields.io/badge/days-99-blue   "days"
+[days-image]: https://img.shields.io/badge/days-100-blue   "days"
 [days-url]: https://github.com/kuriv/health  "days"
 [license-image]: https://img.shields.io/badge/license-MIT-green "license"
 [license-url]: https://github.com/kuriv/health  "license"
