@@ -24,12 +24,14 @@
   * [10](2020/10)
   * [11](2020/11)
   * [12](2020/12)
+* [2021](2021)
+  * [01](2021/01)
 
 
 
 [build-image]: https://img.shields.io/badge/build-passing-brightgreen   "build"
 [build-url]: https://github.com/kuriv/health    "build"
-[days-image]: https://img.shields.io/badge/days-313-blue   "days"
+[days-image]: https://img.shields.io/badge/days-314-blue   "days"
 [days-url]: https://github.com/kuriv/health  "days"
 [license-image]: https://img.shields.io/badge/license-MIT-green "license"
 [license-url]: https://github.com/kuriv/health  "license"
