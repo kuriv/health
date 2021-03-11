@@ -33,7 +33,7 @@
 
 [build-image]: https://img.shields.io/badge/build-passing-brightgreen   "build"
 [build-url]: https://github.com/kuriv/health    "build"
-[days-image]: https://img.shields.io/badge/days-381-blue   "days"
+[days-image]: https://img.shields.io/badge/days-382-blue   "days"
 [days-url]: https://github.com/kuriv/health  "days"
 [license-image]: https://img.shields.io/badge/license-MIT-green "license"
 [license-url]: https://github.com/kuriv/health  "license"
